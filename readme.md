@@ -23,7 +23,6 @@ bash set_up_style_transfer.sh
 Then run the following code to train your model,
 ```
 python style.py --style <style file> --checkpoint-dir <checkpoint path>
-
 ```
 Finally, use the following code to create your own transfered pictures,
 ```
