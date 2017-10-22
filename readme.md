@@ -35,7 +35,7 @@ Some results are placed below:
 ### Chicken Leg
 #### Raw Picture
 <center>
-<img src="https://raw.githubusercontent.com/hzxsnczpku/rebbyousentaizan/master/examples/jt_raw.jpg" width="200">
+<img src="https://raw.githubusercontent.com/hzxsnczpku/rebbyousentaizan/master/examples/jt_raw.JPG" width="200">
 </center>
 
 #### Transfered Pictures
