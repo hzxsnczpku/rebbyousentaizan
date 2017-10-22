@@ -32,4 +32,16 @@ python evaluate.py --checkpoint <ckpt file> --in-path <content file> --out-path 
 
 ## Results
 Some results are placed below:
-![text](https://raw.githubusercontent.com/hzxsnczpku/rebbyousentaizan/master/examples/jt_32.jpg)
+### Chicken Leg
+#### Raw Picture
+<center>
+<img src="https://raw.githubusercontent.com/hzxsnczpku/rebbyousentaizan/master/examples/jt_raw.jpg" width="200">
+</center>
+
+#### Transfered Pictures
+<center>
+<figure class="half">
+    <img src="https://raw.githubusercontent.com/hzxsnczpku/rebbyousentaizan/master/examples/jt_1.jpg" width="200">
+    <img src="https://raw.githubusercontent.com/hzxsnczpku/rebbyousentaizan/master/examples/jt_1_sty.jpg" width="200">
+</figure>
+</center>
