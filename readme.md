@@ -54,6 +54,7 @@ Some results are placed below:
 <img src = "https://raw.githubusercontent.com/hzxsnczpku/rebbyousentaizan/master/examples/jt_6.jpg"  height = '200px'>
 <img src = "https://raw.githubusercontent.com/hzxsnczpku/rebbyousentaizan/master/examples/jt_6_sty.jpg" width='160px' height = '200px'></a>
 <br>
+</center>
 
 ### Hebe
 <div align = 'center'>
@@ -61,6 +62,7 @@ Some results are placed below:
 <img src = "https://raw.githubusercontent.com/hzxsnczpku/rebbyousentaizan/master/examples/hebe_sty.jpeg" height = '200px'>
 <img src = "https://raw.githubusercontent.com/hzxsnczpku/rebbyousentaizan/master/examples/hebe_after.jpg"  height = '200px'>
 <br>
+</center>
 
 ### Ni Mengjiao Horse Rider
 <div align = 'center'>
@@ -68,3 +70,4 @@ Some results are placed below:
 <img src = "https://raw.githubusercontent.com/hzxsnczpku/rebbyousentaizan/master/examples/horse_sty.jpg" height = '200px'>
 <img src = "https://raw.githubusercontent.com/hzxsnczpku/rebbyousentaizan/master/examples/horse_after.jpg"  height = '200px'>
 <br>
+</center>
