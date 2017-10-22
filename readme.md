@@ -33,6 +33,7 @@ python evaluate.py --checkpoint <ckpt file> --in-path <content file> --out-path 
 ## Results
 Some results are placed below:
 
+### Chicken Leg
 <div align='center'>
 <img src = "https://raw.githubusercontent.com/hzxsnczpku/rebbyousentaizan/master/examples/jt_raw.JPG" height="200px">
 </div>
@@ -52,3 +53,18 @@ Some results are placed below:
 <img src = "https://raw.githubusercontent.com/hzxsnczpku/rebbyousentaizan/master/examples/jt_5.jpg" height = '200px'>
 <img src = "https://raw.githubusercontent.com/hzxsnczpku/rebbyousentaizan/master/examples/jt_6.jpg"  height = '200px'>
 <img src = "https://raw.githubusercontent.com/hzxsnczpku/rebbyousentaizan/master/examples/jt_6_sty.jpg" width='160px' height = '200px'></a>
+<br>
+
+### Hebe
+<div align = 'center'>
+<img src = "https://raw.githubusercontent.com/hzxsnczpku/rebbyousentaizan/master/examples/hebe.jpg" width='160px' height = '200px'></a>
+<img src = "https://raw.githubusercontent.com/hzxsnczpku/rebbyousentaizan/master/examples/hebe_sty.jpeg" height = '200px'>
+<img src = "https://raw.githubusercontent.com/hzxsnczpku/rebbyousentaizan/master/examples/hebe_after.jpg"  height = '200px'>
+<br>
+
+### Ni Mengjiao Horse Rider
+<div align = 'center'>
+<img src = "https://raw.githubusercontent.com/hzxsnczpku/rebbyousentaizan/master/examples/horse.jpeg" width='160px' height = '200px'></a>
+<img src = "https://raw.githubusercontent.com/hzxsnczpku/rebbyousentaizan/master/examples/horse_sty.jpg" height = '200px'>
+<img src = "https://raw.githubusercontent.com/hzxsnczpku/rebbyousentaizan/master/examples/horse_after.jpg"  height = '200px'>
+<br>
