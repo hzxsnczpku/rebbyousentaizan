@@ -51,4 +51,4 @@ Some results are placed below:
 <img src = "https://raw.githubusercontent.com/hzxsnczpku/rebbyousentaizan/master/examples/jt_5_sty.jpg" width='180px' height = '200px'></a>
 <img src = "https://raw.githubusercontent.com/hzxsnczpku/rebbyousentaizan/master/examples/jt_5.jpg" height = '200px'>
 <img src = "https://raw.githubusercontent.com/hzxsnczpku/rebbyousentaizan/master/examples/jt_6.jpg"  height = '200px'>
-<img src = "https://raw.githubusercontent.com/hzxsnczpku/rebbyousentaizan/master/examples/jt_6_sty.jpg"  height = '200px'></a>
+<img src = "https://raw.githubusercontent.com/hzxsnczpku/rebbyousentaizan/master/examples/jt_6_sty.jpeg"  height = '200px'></a>
