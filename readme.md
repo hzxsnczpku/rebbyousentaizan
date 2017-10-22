@@ -32,4 +32,4 @@ python evaluate.py --checkpoint <ckpt file> --in-path <content file> --out-path 
 
 ## Results
 Some results are placed below:
-<img src = 'examples/jt32.jpg' height = '200px'>
+![text](https://raw.githubusercontent.com/hzxsnczpku/rebbyousentaizan/master/examples/jt_32.jpg)
